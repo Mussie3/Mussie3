@@ -27,6 +27,7 @@
 ![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
 #### ⚙️ Backend & Database
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -44,7 +45,7 @@
 
 ### 🚀 Key Technical Contributions
 * 🏗️ **Architectural Design:** Engineered modular Frontend architectures using **React and TypeScript**, ensuring high maintainability and performance.
-* ⚙️ **Robust Backends:** Developed complex business logic and secure data processing layers using **Django** and **PostgreSQL**.
+* ⚙️ **Full-Stack Backends:** Developed complex business logic and secure data processing layers using **Django**, **Node.js**, and **PostgreSQL**.
 * 📚 **Technical Education:** Created instructional technical courses and video content to mentor developers on modern engineering best practices.
 * 📈 **Optimization:** Specialized in refactoring legacy codebases to improve system efficiency and developer experience.
 
@@ -53,7 +54,7 @@
 ### 📫 Connect with me
 <p align="left">
   <a href="mailto:mussieaz126@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mussie-gebrearegawi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mussie-aklilu-gebrearegawi-25419a17b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
