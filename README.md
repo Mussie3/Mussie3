@@ -44,10 +44,13 @@
 
 ---
 
-### 🌱 Current Focus
-* 🧩 **Modern Frontend:** Deepening React architecture and state management.
-* 👨‍💻 **Technical Sprint:** Intensive study of **Data Structures & Algorithms** (DSA).
-* 🇩🇪 **Language:** Actively reaching **German B2** proficiency in Munich.
+### 🎯 Professional Focus & Principles
+
+* 🏗️ **Scalable Architectures:** Designing modular React components and robust Django backends with a focus on maintainability.
+* 🛡️ **Clean Code:** Prioritizing type-safety with TypeScript and adhering to SOLID principles for long-term project health.
+* 🚀 **Performance Optimization:** Leveraging efficient Data Structures and Algorithms to build high-speed, scalable web solutions.
+
+---
 
 ### 📫 Connect with me
 <p align="left">
