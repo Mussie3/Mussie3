@@ -12,43 +12,41 @@
   ---
 </div>
 
-### 🚀 Technical Expertise
+### 🛠️ Technical Stack & Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Frontend Engineering</h4>
-      <ul>
-        <li><b>Library:</b> React.js</li>
-        <li><b>Languages:</b> TypeScript, JavaScript (ES6+)</li>
-        <li><b>Styling:</b> HTML5, CSS3, Responsive Design</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Engineering</h4>
-      <ul>
-        <li><b>Framework:</b> Python (Django)</li>
-        <li><b>Architecture:</b> RESTful API Design</li>
-        <li><b>Version Control:</b> Git & GitHub</li>
-        <li><b>Environment:</b> Linux / Unix </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+#### 💻 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 
-### 📈 Metrics & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mussie3&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mussie3&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
+#### ⚙️ Backend & Database
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+#### 🔧 Engineering & DevOps
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-### 🎯 Professional Focus & Principles
-
-* 🏗️ **Scalable Architectures:** Designing modular React components and robust Django backends with a focus on maintainability.
-* 🛡️ **Clean Code:** Prioritizing type-safety with TypeScript and adhering to SOLID principles for long-term project health.
-* 🚀 **Performance Optimization:** Leveraging efficient Data Structures and Algorithms to build high-speed, scalable web solutions.
+### 🚀 Key Technical Contributions
+* 🏗️ **Architectural Design:** Engineered modular Frontend architectures using **React and TypeScript**, ensuring high maintainability and performance.
+* ⚙️ **Robust Backends:** Developed complex business logic and secure data processing layers using **Django** and **PostgreSQL**.
+* 📚 **Technical Education:** Created instructional technical courses and video content to mentor developers on modern engineering best practices.
+* 📈 **Optimization:** Specialized in refactoring legacy codebases to improve system efficiency and developer experience.
 
 ---
 
@@ -59,7 +57,6 @@
 </p>
 
 ---
-
 <p align="center">
-  <i>"Simplicity is the soul of efficiency."</i>
+  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
 </p>
