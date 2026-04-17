@@ -2,7 +2,7 @@
   <h1>Hi, I'm Mussie Aklilu Gebrearegawi 👋</h1>
   <p align="center">
     <img src="https://img.shields.io/badge/Senior%20Software%20Engineer-React%20%7C%20Django-blue?style=for-the-badge&logo=python" alt="Role" />
-    <img src="https://img.shields.io/badge/Munich-Bavaria%20%F0%9F%87%A9%F0%9F%87%AA-red?style=for-the-badge" alt="Location" />
+    <!-- <img src="https://img.shields.io/badge/Munich-Bavaria%20%F0%9F%87%A9%F0%9F%87%AA-red?style=for-the-badge" alt="Location" /> -->
   </p>
 
   ---
