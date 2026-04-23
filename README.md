@@ -7,7 +7,7 @@
 
   ---
 
-  ### **Senior Software Engineer with ~5 years of experience specializing in building high-performance, scalable web applications using TypeScript, React, and Python.**
+  ### **Senior Software Engineer with ~5 years of experience specializing in building high-performance, scalable web applications using TypeScript, React.**
 
   ---
 </div>
