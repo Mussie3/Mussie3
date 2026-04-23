@@ -7,7 +7,8 @@
 
   ---
 
-  ### **Senior Software Engineer with ~5 years of experience specializing in building high-performance, scalable web applications using TypeScript, React.**
+  ### **Frontend Software Engineer with ~5 years of experience building high-performance, scalable, and real-time web applications using React and TypeScript.**
+  ### Specialized in UI architecture, performance optimization, and data-intensive frontend systems.
 
   ---
 </div>
