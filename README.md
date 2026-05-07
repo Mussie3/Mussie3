@@ -31,21 +31,24 @@ Realtime signal intelligence and geospatial visualization platform.
 - Integrated interactive maps and dynamic filtering systems
 
 #### Tech Stack
-React • TypeScript • Leaflet • Zustand • TailwindCSS • Vite
+React • TypeScript • Zustand • TailwindCSS • Vite
 
 ---
 
 ### 🎼 Composer Studio
 Interactive composition and creative workflow application.
 
+🔗 Live Demo: https://composer-studio-plum.vercel.app/mail
+
 #### Highlights
-- Developed responsive and modular frontend workflows
-- Focused on reusable component architecture and maintainability
-- Built scalable UI systems with synchronized application state
-- Designed smooth and interactive user experiences
+- Built modular and responsive frontend architecture for complex UI workflows
+- Designed reusable component system for scalable interface development
+- Managed synchronized application state for interactive user flows
+- Focused on smooth UX, layout consistency, and interaction design
+- Structured for maintainability and long-term frontend scalability
 
 #### Tech Stack
-React • TypeScript • TailwindCSS • Node.js
+React • TypeScript • TailwindCSS
 
 ---
 
@@ -58,12 +61,6 @@ React • TypeScript • TailwindCSS • Node.js
 ![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### ⚙️ Backend & Engineering
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
