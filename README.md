@@ -38,7 +38,7 @@ React • TypeScript • Zustand • TailwindCSS • Vite
 ### 🎼 Composer Studio
 Interactive composition and creative workflow application.
 
-🔗 Live Demo: https://composer-studio-plum.vercel.app/mail
+🔗 Live Demo: https://composer-studio-plum.vercel.app/
 
 #### Highlights
 - Built modular and responsive frontend architecture for complex UI workflows
