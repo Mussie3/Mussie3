@@ -93,7 +93,7 @@ React • TypeScript • TailwindCSS
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/mussie-aklilu-gebrearegawi-25419a17b/">
+  <a href="https://www.linkedin.com/in/mussie-gebrearegawi-25419a17b/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
